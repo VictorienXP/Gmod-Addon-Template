@@ -1,0 +1,27 @@
+{
+	"title"		:	"Addon name",
+	"type"		:	"type",
+	"tags"		:	[ "tag" ],
+	"ignore"	:
+	[
+		"*.svn*",
+		"*.git*",
+		"*.psd",
+		"*.psb",
+		"*.xcf",
+		"*.vcproj",
+		"*.md",
+		"*.bat",
+		"*.cmd",
+		"*.sh",
+		"*.py*",
+		"*.vmf",
+		"*.fgd",
+		"*.gma",
+		"desktop.ini",
+		"Thumbs.db",
+		"CODEOWNERS",
+		"LICENSE",
+		"glualint.json"
+	]
+}
