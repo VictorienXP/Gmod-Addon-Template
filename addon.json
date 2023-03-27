@@ -1,0 +1,36 @@
+{
+	"title"		:	"Addon name",
+	"type"		:	"type",
+	"tags"		:	[ "tag" ],
+	"ignore"	:
+	[
+		"*.svn*",
+		"*.git*",
+		"*.psd",
+		"*.psb",
+		"*.xcf",
+		"*.svg",
+		"*.vcproj",
+		"*.md",
+		"*.bat",
+		"*.cmd",
+		"*.sh",
+		"*.py*",
+		"*.vmf",
+		"*.vmx",
+		"*.prt",
+		"*.pts",
+		"*.log",
+		"*.db",
+		"*.ini",
+		"*.json",
+		"*.yml",
+		"*.gma",
+		".docker*",
+		".vscode*",
+		"CODEOWNERS",
+		"LICENSE",
+		".editorconfig",
+		".addon.jpg"
+	]
+}
