@@ -9,6 +9,7 @@
 		"*.psd",
 		"*.psb",
 		"*.xcf",
+		"*.svg",
 		"*.vcproj",
 		"*.md",
 		"*.bat",
@@ -16,11 +17,20 @@
 		"*.sh",
 		"*.py*",
 		"*.vmf",
+		"*.vmx",
+		"*.prt",
+		"*.pts",
+		"*.log",
+		"*.db",
+		"*.ini",
+		"*.json",
+		"*.yml",
 		"*.gma",
-		"desktop.ini",
-		"Thumbs.db",
+		".docker*",
+		".vscode*",
 		"CODEOWNERS",
 		"LICENSE",
-		"glualint.json"
+		".editorconfig",
+		".addon.jpg"
 	]
 }
